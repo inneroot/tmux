@@ -14,4 +14,6 @@
 
 2. then clone this repo to `$XDG_CONFIG_HOME/tmux/`
 
-3. open tmux and `prefix + I` to setup plugins
+3. `tmux source ~/.config/tmux/tmux.conf`
+
+4. open tmux and `prefix + I` to setup plugins
